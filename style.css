@@ -1,0 +1,37 @@
+body{
+   background-image: url("1.jpg") ;
+   background-size:cover;
+}
+p {
+   
+    font-size: 20px;
+    font-weight: 100;
+    color: rgb(32, 29, 24);
+}
+#find-me{
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT';
+    background-color: rgb(214, 43, 43);
+    color: white;
+}
+.btns{
+    padding-top: 300px;
+}
+#social{
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT';
+    background-color: rgb(44, 23, 23);
+    color: white; 
+}  
+#social2{
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT';
+    background-color: rgb(61, 107, 56);
+    color: white;
+}
+#social3{
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT';
+    background-color: rgb(123, 129, 122);
+    color: white;  
+}
